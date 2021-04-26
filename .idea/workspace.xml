@@ -55,6 +55,22 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -73,6 +89,9 @@
       <workItem from="1618814088900" duration="4791000" />
       <workItem from="1618836514782" duration="729000" />
       <workItem from="1618840781658" duration="1523000" />
+      <workItem from="1618910889878" duration="2652000" />
+      <workItem from="1619173299690" duration="3921000" />
+      <workItem from="1619419448325" duration="2351000" />
     </task>
     <servers />
   </component>
@@ -96,5 +115,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1618307254779" />
+    <state x="476" y="165" key="SettingsEditor" timestamp="1619179207642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="476" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1619179207642" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1619179231249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619179231249" />
+    <state x="342" y="204" key="new project wizard" timestamp="1618912875507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="204" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1618912875507" />
   </component>
 </project>

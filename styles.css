@@ -1,14 +1,34 @@
 .mujdiv {
-    font-size: 50px;
-    padding: 10px;
-    display: inline-block;
-}
-.mujdiv1 {
-    font-size: 50px;
-    padding: 10px;
-
+    font-size: 100px;
+    padding: 0px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 8px;
+    background-color: cornflowerblue;
+    border: 13px solid darkblue;
+    position: relative;
 }
 #Id {
     width: 100%;
+    max-width: 750px;
     height: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.mujdiv1 {
+    font-size: 100px;
+    padding: 0px;
+    display: inline-block;
+
+    background-color: darkblue;
+
+    position: absolute;
+    top: -1px;
+    bottom: -1px;
+    left: -1px;
+    right: -1px;
+
+
 }

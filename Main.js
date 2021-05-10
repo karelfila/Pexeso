@@ -1,8 +1,8 @@
 var flipped = 0;  //var protože je to globalní
 var lng = 0;
 var emojis2 = [];
-var first = 0;
-var second = 0;
+var first = -1;
+var second = -1;
 var Count = 0;
 
 function reveal(i) {
@@ -23,6 +23,8 @@ function reveal(i) {
         first = -1;
         second = -1;
     }
+    console.log(emojis2[first]);
+    console.log(emojis2[second]);
     if (emojis2[first] == emojis2[second]) {
         document.getElementById(first).style.backgroundColor = "green";
         document.getElementById(second).style.backgroundColor = "green";

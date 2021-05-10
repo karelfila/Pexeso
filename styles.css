@@ -9,6 +9,7 @@
     background-color: cornflowerblue;
     border: 13px solid darkblue;
     position: relative;
+
 }
 #Id {
     width: 100%;
@@ -29,6 +30,11 @@
     bottom: -1px;
     left: -1px;
     right: -1px;
-
-
+}
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
 }
